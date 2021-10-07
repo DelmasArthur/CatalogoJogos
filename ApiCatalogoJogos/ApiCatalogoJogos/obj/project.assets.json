@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\Projetos\\API_CatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
+      "projectUniqueName": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\Projetos\\CatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
       "projectName": "ApiCatalogoJogos",
-      "projectPath": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\Projetos\\API_CatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
+      "projectPath": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\Projetos\\CatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
       "packagesPath": "C:\\Users\\Arthur Delmas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\Projetos\\API_CatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos\\obj\\",
+      "outputPath": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\Projetos\\CatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

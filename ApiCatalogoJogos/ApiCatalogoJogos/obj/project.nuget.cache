@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g+NaAIcg0e2b162aDHIFme6qLAzoD11EF/gUBAfXwA8Uk10MMPyMKb7JpB7mrPnL2G1VFtbTrd8nkroOSxfHdQ==",
+  "dgSpecHash": "4+pMZ8qTQv+I3zM/m4LhGVEZECRct1c6ezujXEhfief9PXi7tLTUGyqaayfuKnCQmrl9iEFDgByTJaA8m01Q8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\Projetos\\API_CatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
+  "projectFilePath": "C:\\Users\\Arthur Delmas\\Documents\\DIO\\Bootcamp Avanade\\Projetos\\CatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arthur Delmas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Arthur Delmas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
