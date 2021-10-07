@@ -69,7 +69,7 @@ namespace ApiCatalogoJogos.Repositorio
 
         public void Dispose()
         {
-            //Fechar conexão com o banco
+            //finalizar conexão com o banco quando houver.
         }
 
     }
